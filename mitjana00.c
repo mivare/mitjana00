@@ -1,4 +1,4 @@
-//Autor: dc1718daw2
+//autor: dc1718daw2
 //Data i hora: 201712011403
 
 #include <stdio.h>
